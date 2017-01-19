@@ -179,6 +179,7 @@
 .fu-bottom{
     width: 100%;
     height: auto;
+    padding-left: 0.1rem;
     border-top: 1px solid #E8E8E8;
 }
 .fu-bottom:after{
@@ -192,20 +193,20 @@
     float: left;
     border-right: 1px solid #E8E8E8;
     background: #fff;
-    padding: 0.4rem 0.2rem;
+    padding: 0.4rem 0.1rem;
 }
 .fu-bottom .lit:nth-child(3){
     border-right: 0;
 };
 .litb{
 
-    float: left;
+   
     width: auto;
     height: 0.44rem;
 }
 .lit .litimg{
     display: block;
-    width: 0.6rem;
+    width: 30%;
     height: 0.6rem;
     
     float: left;
@@ -218,33 +219,33 @@
 
 .litbox{
     float: left;
-    width: auto;
+    width: 70%;
      height: 0.6rem;
     /*background: blue;*/
     text-align: left;
-    /*padding-left: 0.2rem;*/
+    padding-left: 0.1rem;
 }
 .litbox:after{
     content: '';
     display: block;
     clear: both;
 }
-.lit .litbox .lit1{
-    /*display: block;*/
+.lit .litbox .lita{
+    display: block;
     font-size: 0.1rem;
     color: #000;
     /*float: left;*/
-    margin-top: 0.18rem;
-    margin-left: 0.2rem;
+    /*margin-top: 0.18rem;
+    margin-left: 0.2rem;*/
 
 }
-.litbox .lit2{
-    display: block;
+.litbox .litb{
+    /*display: block;*/
     font-size: 0.1rem;
     color: #999999;
     /*float: left;*/
-    margin-top: 0.36rem;
-    margin-left: 0.2rem;
+   /* margin-top: 0.36rem;
+    margin-left: 0.2rem;*/
 
 }
 /*电话*/
