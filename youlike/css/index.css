@@ -115,7 +115,7 @@
     height: 0.53rem;
     text-align: center;
     line-height: 0.53rem;
-    font-size: 0.12rem;
+    font-size: 14px;
     color:#1378BA;
     border-bottom: 1px solid #E8E8E8;
 }
@@ -151,10 +151,10 @@
     height: auto;
 }
 .fu-conten li .nab .box .title{
-    margin-top: 0.18rem;
+    /*margin-top: 0.18rem;*/
     display: block;
     color: #000;
-    font-size: 0.16rem;
+    font-size: 14px;
     text-align: left;
 }
 .fu-conten li .nab .box .tit2{
