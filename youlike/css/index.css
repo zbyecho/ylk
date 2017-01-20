@@ -5,7 +5,7 @@
         font-family:Helvetica,"苹方";
     }
     body,h2,ul,li{
-        font-size: 0.14rem;
+        font-size: 14px;
         margin: 0;
         padding: 0;
         /*line-height: 0;*/
@@ -30,7 +30,7 @@
     background: #0000FF;
     text-align: center;
     color: #fff;
-    font-size: 0.18rem;
+    font-size: 18px;
     line-height: 0.9rem;
 
 }
@@ -231,7 +231,7 @@
 }
 .lit .litbox .lita{
     display: block;
-    font-size: 0.1rem;
+    font-size: 10px;
     color: #000;
     /*float: left;*/
     /*margin-top: 0.18rem;
@@ -240,7 +240,7 @@
 }
 .litbox .litb{
     /*display: block;*/
-    font-size: 0.1rem;
+    font-size: 10px;
     color: #999999;
     /*float: left;*/
    /* margin-top: 0.36rem;
@@ -255,7 +255,7 @@
     background: #ffffff!important;
     padding-left: .2rem;
     padding-right: .2rem;
-    font-size: 0.14rem;
+    font-size: 14px;
 }
 .lian .lia{
     width: 33.333333%;
